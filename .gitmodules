@@ -1,0 +1,3 @@
+[submodule "GoodMoBot"]
+	path = GoodMoBot
+	url = https://github.com/elizabetast/GoodMoBot
